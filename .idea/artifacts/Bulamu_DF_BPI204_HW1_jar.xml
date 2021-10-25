@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bulamu_DF_BPI204_HW1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bulamu_DF_BPI204_HW1_jar</output-path>
+    <root id="archive" name="Bulamu_DF_BPI204_HW1.jar">
+      <element id="module-output" name="Bulamu_DF_BPI204_HW1" />
+    </root>
+  </artifact>
+</component>
